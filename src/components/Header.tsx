@@ -9,8 +9,12 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-gradient-to-br from-primary to-accent rounded-lg"></div>
+          <div className="flex items-center space-x-3">
+            <img 
+              src="/lovable-uploads/e66c9c36-0458-4aef-8a79-a0a7e015a399.png" 
+              alt="DevOpsCanvas Logo" 
+              className="w-8 h-8"
+            />
             <span className="text-xl font-bold text-foreground">DevOpsCanvas</span>
           </div>
 
