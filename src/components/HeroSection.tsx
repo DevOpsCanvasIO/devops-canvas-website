@@ -18,7 +18,7 @@ const HeroSection = () => {
                   Clarity, Speed & Control
                 </span>
               </h1>
-              <p className="text-xl text-muted-foreground max-w-lg">
+              <p className="text-xl text-white max-w-lg">
                 Transform your DevOps workflows with unified visibility, intelligent automation, 
                 and actionable insights that accelerate delivery and reduce MTTR.
               </p>
@@ -42,7 +42,7 @@ const HeroSection = () => {
               </Button>
             </div>
 
-            <div className="flex items-center space-x-8 text-sm text-muted-foreground">
+            <div className="flex items-center space-x-8 text-sm text-white">
               <div className="flex items-center space-x-2">
                 <div className="w-2 h-2 bg-accent rounded-full"></div>
                 <span>No credit card required</span>
